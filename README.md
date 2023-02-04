@@ -17,8 +17,8 @@ This repo contains example codes for unit testing in Python with Pytest library.
 - Autopep8
 
 
-Recommended online study module:
+### Recommended online study module:
 - https://campus.datacamp.com/courses/unit-testing-for-data-science-in-python/unit-testing-basics?learningMode=course&ex=1
 
-Other Fenyx Repo about testing including Great Expectations library examples:
+### Alternative Fenyx repo about testing including Great Expectations library examples:
 - https://github.com/fenyx-it-academy/TechTalks-Testing
