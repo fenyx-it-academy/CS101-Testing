@@ -1,0 +1,4 @@
+pytest #testing
+pylint #linting 
+flake8 #linting
+black #formatting
