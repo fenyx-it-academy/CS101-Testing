@@ -1,6 +1,11 @@
 from my_shopping_cart import add_to_cart, get_item, get_total_price
 import pytest
 
+# @pytest.fixture
+# def cart():
+#     return []
+# remember to add cart as parameter to each test_ function.
+
 def test_add_to_cart():
     cart = []
     add_to_cart(cart, "apple")
@@ -15,6 +20,8 @@ def test_add_to_cart():
 
     # add_to_cart(cart, "orange")
     # assert len(cart) == 2
+    
+#     assert add_to_cart(cart, "apple") == 1
 
 
 def test_get_item():
